@@ -1,7 +1,7 @@
-# ELEVATE-LABS---Task-3
+# SQL for Data Analysis - Investigating Metric Spike
 
- SQL for Data Analysis 
 
+ 
 This project was completed as part of a Data Analyst Internship. The objective was to use SQL to extract insights, analyze user behavior, and work with structured data using a dataset of my choice (user activity and email engagement data).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
