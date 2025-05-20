@@ -2,7 +2,7 @@
 
 
  
-This project was completed as part of a Data Analyst Internship. The objective was to use SQL to extract insights, analyze user behavior, and work with structured data using a dataset of my choice (user activity and email engagement data).
+The objective was to use SQL to extract insights, analyze user behavior, and work with structured data using a dataset - user activity and email engagement data.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
